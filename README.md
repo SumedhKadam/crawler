@@ -1,2 +1,2 @@
 # crawler
-Web Crawlers using Beautiful Soup library
+Web Crawler to scan www.ebook-dl.com using Beautiful Soup library
